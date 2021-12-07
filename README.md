@@ -1,8 +1,3 @@
-AWS DATABASE MIGRATION 
-
-In this workshop, I explored how you to migrate your data to and from databases using the AWS Database Migration Service (DMS) and AWS Schema Conversion Tool (AWS SCT).
-
-
 Steps taken to complete the activity:
 1) Creation of EC2 KEY PAIR. Download this to your machine.
 2) Cloudformation template I used the template provided in the AWS workshop: 
